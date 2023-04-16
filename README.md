@@ -1,5 +1,7 @@
 # dlgo
 
+[Deep learning with the game of Go] (https://www.manning.com/books/deep-learning-and-the-game-of-go)
+
 ## Requirements
 
 - PyEnv 2.3+
